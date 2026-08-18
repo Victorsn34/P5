@@ -11,7 +11,7 @@ Dette repo indeholder Kilder, noter og andet relevant til alle kurser samt proje
  - Statistisk inferens for Lineære Modeller
 
 
-**Vigtigt for overleaf** \
+**Vigtigt for overleaf** 
 - Først kør kommando: cd "path to overleaf mappe"
 - for at compile brug kommandoen: pdflatex -interaction=nonstopmode -halt-on-error main.tex :: *latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex*
 - for atview pdf brug kommandoen: Start-Process .\main.pdf 
